@@ -1,5 +1,5 @@
 ---
-title: "Yuan's Website"
+title: "Contact"
 ---
 
 - __Email:__ ybian.uiuc@gmail.com || ybian3@illinois.com

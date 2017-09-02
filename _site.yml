@@ -1,12 +1,12 @@
 name: "Yuan-website"
 output_dir: "."
 navbar:
-  title: "Yuan Website"
+  title: "Yuan Bian 边缘"
   left:
     - text: "Home"
       href: index.html
     - text: "Research"
-      href: about.html
+      href: research.html
     - text: "Contact"
       href: contact.html
 output:

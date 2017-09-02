@@ -6,3 +6,4 @@ setwd("/Users/yuanbian/Downloads/Personal_Website")
 
 #render your sweet site. 
 rmarkdown::render_site()
+

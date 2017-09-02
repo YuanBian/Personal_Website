@@ -9,3 +9,7 @@ navbar:
       href: about.html
     - text: "Contact"
       href: contact.html
+output:
+  html_document:
+    theme: flatly
+    css: style.css

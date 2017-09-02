@@ -3,7 +3,8 @@
 #not our site because of other projects we were 
 #working on at the time. 
 setwd("/Users/yuanbian/Downloads/Personal_Website")
-
+  
+   
 #render your sweet site. 
 rmarkdown::render_site()
 

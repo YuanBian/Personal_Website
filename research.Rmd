@@ -1,5 +1,12 @@
 ---
-title: "About Me"
+title: "Previous Projects"
 ---
 
-Why I am awesome. 
+<br />
+
+### Speech Error and Implicit Learning @UIUC
+Learnability of 2nd Order Constraints with Suprasegmental Contexts
+<br />
+<br />
+
+### Word Connectivity in Predicting Age of Acquisition @Stanford University

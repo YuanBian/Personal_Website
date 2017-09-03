@@ -1,7 +1,9 @@
 ---
 title: "Hi There!"
+
 ---
 
+<img src="Yuan.jpg" alt="Me." width="320" height="320" />
 <br>
 My name is Yuan Bian (Chinese: 边缘; Pronunciation: Yoo-an Bee-an). I am a senior Psychology major in University of Illinois at Urbana-Champaign. I am originally from Hangzhou, China.
 
@@ -10,3 +12,4 @@ My research interests are majorly in computational psycholinguistics (cognitive 
 In my leisure time, I am fascinated with philosophy of mind and metaphysics and often read Stanford Encyclopedia of Philosophy. I like learning about languages (but, I am not able to speak any other language except Chinese and English; I am mostly interested in the linguistic aspect of a language).
 
 I like Icelandic and Celtic music.
+
